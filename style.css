@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.sub_container {
+    margin: 20px 100px;
+}
+
+img {
+    width: 300px;
+}
+
+table,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {
+    padding: 5px;
+}
